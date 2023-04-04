@@ -35,7 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 ## 是否支持公式？
-$a=b$
+
+行内公式为：$a=b$。
+
+行间公式为：
+
 $$
 a=b
 $$
